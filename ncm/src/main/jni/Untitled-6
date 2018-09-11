@@ -1,0 +1,6 @@
+./configure CC="/Users/bunnyblue/android-sdk/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin"\
+--host="arm-linux" \
+--build="arm" \
+--enable-static="no" \
+--enable-shared="yes" \
+--prefix="/Users/bunnyblue/DroidNCM2/app/src/main/3rrd/taglib-1.11.1"\

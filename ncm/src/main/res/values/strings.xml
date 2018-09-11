@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">DroidNCM</string>
+    <string name="title_activity_main_finder">MainFinderActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">DroidNCM</string>
+    <string name="nav_header_subtitle">https://github.com/bunnyfish/DroidNCM</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">一键转换</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">ncm格式转换器\n
+    自动创换，目标文件与源文件同一层级目录\n
+    支持单个文件转换，批量转换\n
+    Support Android P-萝莉炮 \n
+   Thanks:openssl,taglib
+    </string>
+    <string name="app_version">version 1.0.0</string>
+    <string name="code">source :https://github.com/bunnyfish/DroidNCM </string>
+</resources>
